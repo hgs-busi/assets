@@ -1,75 +1,80 @@
 ## 0. 식별
-- run_id: 20260920-daily-195707
-- post_key: economy-september-fourth-week-checkpoints
+- run_id: 20260920-daily-162805
+- post_key: economy-fomc-september-2026-outlook
 - kind: economy
-- image_id: economy-week4-summary
-- article_revision: 1
-- article_sha256: 5cc08f8344dcf240789c498f191e07da06c987c21e41c2b4c03fe216144e2e19
+- image_id: economy-fomc-summary
+- article_revision: 2
+- article_sha256: 70381ff63e7d3fb43e0fc952243ba1d7856a80983ffa385096567c0ffebb9574
 - target_png: stock_blog/2026/09/21/economy.png
 - target_meta: request-letter/2026/09/21/economy.meta.json
 
 ## 1. 기본 정보
 - 트랙: 경제
 - 게시일: 2026-09-21
-- 제목: 9월 넷째 주 증시 ... 휴장과 지표 확인 순서
-- 주제: 2026년 9월 넷째 주 경제·증시 체크포인트
-- 관점: 9월 21~25일 국내외 주요 경제지표와 정책 일정을 확정 일정과 관전 포인트로 나눠 국내 투자자가 확인할 순서를 설명한다.
+- 제목: 9월 FOMC 결정 ... 금리·물가·전망 읽기
+- 주제: 미 연준 9월 FOMC 결정과 새 경제전망
+- 관점: 금리 결정·성명서의 물가 판단·경제전망을 분리해 읽고 국내 투자자가 환율·채권금리·주식 밸류에이션에서 확인할 항목을 설명한다.
 
 ## 2. 본문 전문
-# 9월 넷째 주 증시 ... 휴장과 지표 확인 순서
+# 9월 FOMC 결정 ... 금리·물가·전망 읽기
 
-9월 넷째 주는 국내 투자자에게 달력부터 확인해야 하는 주간입니다. 한국 증시는 추석 연휴로 24일과 25일 문을 닫고, 일본 증시는 21일부터 23일까지 휴장합니다. 반면 미국과 유럽에서는 소비심리, 기업 체감경기, 주택, 설비투자 관련 지표가 이어집니다. 한국 시장이 쉬는 동안 나온 정보는 28일 개장 때 한꺼번에 반영될 수 있습니다. **예측 숫자를 외우기보다 발표 시각과 이전 수치, 금리·환율로 이어지는 경로를 순서대로 확인하는 것**이 이번 주의 핵심입니다. 아래 일정은 2026년 9월 20일 저녁에 공식 기관과 발표 주최자 자료로 확인한 예정이며, 발표 전 변경될 수 있습니다.
+## 개요
 
-## 먼저 볼 것은 한국과 일본의 휴장 일정
+미국 연방준비제도는 2026년 9월 15~16일 연방공개시장위원회(FOMC)에서 연방기금금리 목표범위를 3.50~3.75%에서 3.75~4.00%로 0.25%포인트 올렸습니다. 결정은 만장일치였습니다. 같은 시각 공개된 경제전망요약(SEP)은 올해 성장률과 물가 전망을 함께 높이고 실업률 전망은 낮췄습니다. **정책 결정, 성명서의 경기·물가 판단, 참가자 전망은 서로 다른 정보**입니다. 세 가지를 분리해서 보면 환율과 채권금리, 주식 밸류에이션에 무엇을 대입해야 하는지 한결 선명해집니다. 이 글은 9월 18일 미국 시장 마감 자료까지 확인한 결정 후 해설이며, 회의 전 예상확률은 다시 다루지 않습니다.
 
-한국거래소 관련 공식 공시 안내는 추석 연휴를 9월 24~27일로 명시하고 있습니다. 따라서 국내 정규장은 21~23일만 열리고 24~25일은 휴장하며, 다음 거래일은 28일입니다. 한국은행도 24~26일을 추석 휴일로 공지했습니다. 연휴 직전인 23일 장 마감 뒤에는 해외 금리와 환율이 계속 움직여도 국내 현물주식으로 즉시 대응하기 어렵습니다. **23일 종가와 28일 시가 사이에는 평소보다 긴 정보 공백이 생긴다**는 뜻입니다.
+## 금리 결정은 확정된 현재값입니다
 
-일본거래소그룹은 21일 경로의 날, 22일 공휴일, 23일 추분의 날로 사흘 연속 휴장한다고 밝혔습니다. 일본 시장은 24일 다시 열리지만 그날부터 한국이 쉽니다. 엔화와 일본 금리 변화가 한국의 자동차·수출주 평가에 영향을 줄 수 있어도 두 시장의 가격 반영 시점은 엇갈릴 수 있습니다. 휴장 중 해외 선물이나 환율 움직임을 국내 현물의 확정 방향으로 단정하지 말고, 28일에는 원·달러 환율과 외국인 수급, 업종별 시가를 함께 확인하는 편이 합리적입니다.
+이번 회의에서 확정된 사실은 목표범위를 3.75~4.00%로 올린 것입니다. 7월 회의에서는 3.50~3.75%를 유지했고 세 명이 0.25%포인트 인상을 선호했지만, 9월에는 12명 모두 인상에 찬성했습니다. 연준은 9월 17일부터 지급준비금 이자율을 3.90%로 올리고, 뉴욕 연은 공개시장 데스크가 새 목표범위를 유지하도록 지시했습니다. 이는 정책금리의 현재 설정을 실제 운영수단에 반영한 조치입니다.
 
-## 22~23일은 심리와 기업 체감경기
+반면 다음 회의의 금리 수준은 아직 확정되지 않았습니다. SEP의 금리 경로는 참가자 각각이 자신의 경제 전망과 적절한 정책 가정을 바탕으로 적어 낸 값의 분포입니다. **점도표 중간값을 연준의 약속이나 자동 실행 일정으로 읽으면 안 됩니다.** 다음 정례회의는 10월 27~28일이며, 9월 회의 의사록은 10월 7일 공개될 예정입니다. 향후 결정은 새 물가·고용 지표와 금융여건에 따라 달라질 수 있습니다.
 
-유럽연합 집행위원회는 9월 소비자신뢰지수 속보치를 22일 오후 4시 룩셈부르크 현지시간, 한국시간으로 같은 날 오후 11시에 발표할 예정입니다. 이 지표는 가계의 경기·재정·구매 계획을 설문으로 묻기 때문에 실제 소비액과 같지는 않습니다. 다만 소비심리가 약해지면 유럽 내수 기대와 기업 매출 전망이 낮아질 수 있고, 동시에 물가 압력이 누그러질 것이라는 해석이 붙으면 유럽 금리와 유로화에는 다른 방향의 재료가 될 수 있습니다. **한 숫자보다 소비심리·금리·통화가 함께 움직이는지**를 살펴야 합니다.
+## 성명서는 물가 대응의 강도를 보여줍니다
 
-한국은행은 23일 오전 6시에 9월 소비자동향조사 결과를 발표하며, 관련 통계는 오전 8시에 ECOS에 수록할 예정입니다. 8월 결과와 비교해 소비자심리지수뿐 아니라 향후경기전망, 금리수준전망, 기대인플레이션 항목을 나눠 볼 필요가 있습니다. 같은 날 S&P Global은 프랑스·독일·유로존·미국의 9월 플래시 PMI를 순차 발표합니다. 플래시 PMI는 통상 최종 응답의 약 85~90%를 사용한 조기 추정치이고, 50을 웃돌면 전월보다 개선, 밑돌면 악화를 뜻합니다. 공식 경기통계보다 빠르지만 확정치가 아니므로 제조업과 서비스업의 방향, 투입가격과 신규주문을 함께 읽어야 합니다.
+9월 성명서는 경제활동이 견조한 속도로 확장하고 있으며 국내 지출이 회복력을 보였다고 평가했습니다. 생산성 증가와 자본투자는 강하고, 고용 증가는 노동력 증가와 보조를 맞췄으며 실업률은 거의 변하지 않았다는 판단도 담았습니다. 경기나 고용의 급격한 약화를 이유로 금리를 올린 것이 아니라, **수요와 노동시장이 버티는 동안 높은 물가를 더 빨리 2% 목표로 돌리려는 결정**으로 읽는 편이 공식 문구에 가깝습니다.
 
-## 24~25일 미국 주택과 설비투자
+물가 문장은 짧지만 변화가 있습니다. 7월에는 에너지 등 일부 부문의 공급 충격이 물가 상승에 영향을 줬다고 구체적으로 적었지만, 9월에는 “물가가 여전히 높다”고 평가한 뒤 이번 조치가 2% 목표로 더 제때 복귀하도록 뒷받침한다고 밝혔습니다. 공급 측 배경을 덜 열거하고 정책 행동의 목적을 앞세운 셈입니다. 다만 성명서만으로 물가의 정점이나 향후 인상 횟수를 단정할 수는 없습니다. 실제 물가 경로와 정책 참가자들의 조건부 전망은 SEP에서 따로 확인해야 합니다.
 
-미국 인구조사국은 8월 신규주택판매를 24일 오전 10시 미국 동부시간, 한국시간 24일 오후 11시에 발표할 예정입니다. 7월 수치는 연율 60만7천 채로 6월의 수정치 67만8천 채보다 10.5% 감소했고, 월말 판매 재고는 48만8천 채, 현 판매 속도 기준 9.6개월분이었습니다. 다만 판매 증감률에는 ±14.0%의 표본오차가 제시돼 한 달 수치만으로 주택 경기를 단정하기 어렵습니다. 판매량과 재고개월수, 주택담보대출 금리를 함께 보면 금리 부담이 실제 수요로 전달되는 경로를 더 잘 볼 수 있습니다.
+## 새 경제전망은 더 높은 금리를 가리킵니다
 
-8월 내구재 신규주문 속보치는 25일 오전 8시 30분 미국 동부시간, 한국시간 25일 오후 9시 30분에 나옵니다. 7월 신규주문은 3,393억달러로 전월보다 1.1% 늘었고, 운송장비 제외 주문은 0.4% 증가했습니다. 항공기처럼 금액이 큰 품목 때문에 전체 수치가 흔들릴 수 있으므로 전체 증감률과 운송장비 제외 수치를 구분해야 합니다. 주문이 강하면 제조업과 설비투자 기대를 높일 수 있지만, 동시에 높은 금리가 더 오래 이어질 수 있다는 해석도 가능합니다. 발표 직후에는 미국 국채금리, 달러, 경기민감 업종이 같은 방향으로 움직이는지 확인해야 합니다.
+9월 SEP에서 2026년 실질 GDP 증가율 중간값은 2.3%로 6월의 2.2%보다 0.1%포인트 높아졌습니다. 실업률은 4.3%에서 4.1%로 낮아졌습니다. 반면 2026년 PCE 물가상승률은 3.6%에서 3.7%, 근원 PCE는 3.3%에서 3.4%로 각각 0.1%포인트 올라갔습니다. PCE 물가는 개인소비지출 가격지수입니다. GDP와 PCE 물가, 식품·에너지를 뺀 근원 PCE의 증가율은 전년 4분기 대비 올해 4분기 기준이고, 실업률은 올해 4분기 평균입니다. **성장은 조금 더 강하고 고용은 더 안정적이지만 물가는 더 끈적한 조합**입니다.
 
-## 연준 결정 뒤 확인할 순서
+정책금리 중간값은 2026년 말 4.1%로, 6월 전망 3.8%보다 0.3%포인트 높아졌습니다. 2027년 중간값도 3.6%에서 4.1%로 올라갔고, 2028년은 3.4%에서 3.9%로 높아졌습니다. 현재 목표범위 중간값 3.875%와 2026년 말 전망 4.1%를 비교하면 참가자들의 중심 전망이 연내 추가 인상 가능성을 열어 둔 것으로 해석할 수 있습니다. 하지만 중간값은 소수점 첫째 자리로 표시된 조건부 전망이고, 회의별 결정표가 아닙니다. 숫자의 방향은 중요하지만 횟수를 기계적으로 환산해서는 안 됩니다.
 
-이번 주 지표는 9월 16일 미국 연방공개시장위원회 결정 이후 처음 맞는 주간 자료라는 점에서 중요합니다. 연준은 연방기금금리 목표범위를 0.25%포인트 올려 3.75~4.00%로 정했고, 물가가 여전히 높다고 설명했습니다. 같은 날 공개한 전망에서 참가자들의 2026년 말 정책금리 중간값은 4.1%로, 6월 전망 3.8%보다 높아졌습니다. 이는 확정된 미래 금리가 아니라 참가자 각자의 적절한 정책 경로를 모은 전망입니다.
+## 국내 투자자는 세 가격을 함께 봐야 합니다
 
-확인 순서는 단순하게 잡을 수 있습니다. 먼저 플래시 PMI의 신규주문과 가격 항목으로 성장과 물가의 방향을 나눠 봅니다. 다음으로 신규주택판매에서 금리 민감 수요를, 내구재 주문에서 기업의 생산 약속과 설비투자 흐름을 확인합니다. 마지막으로 미국 국채금리와 달러가 지표 발표 전후 어떻게 반응했는지 대조합니다. 주간 달력에서 자주 거론되는 미국 8월 개인소득·소비지출과 PCE 물가는 이번 주가 아니라 9월 30일 발표 예정입니다. **발표일이 다른 지표를 이번 주 재료로 앞당겨 해석하지 않는 것**도 중요한 점검 항목입니다.
+첫째는 원·달러 환율입니다. FOMC 결과가 반영된 9월 17일 서울 외환시장에서 원·달러 환율은 전 거래일보다 13.6원 오른 1,382.2원에 마감했습니다. 미국 금리 경로가 높아지면 달러 자산의 상대적 매력이 커질 수 있지만, 환율은 국제유가와 위험선호, 국내 수급에도 동시에 영향을 받습니다. 따라서 한미 금리차만으로 움직임 전체를 설명하기보다 달러지수와 외국인 자금 흐름을 함께 확인해야 합니다.
+
+둘째는 미국 장기금리입니다. 미 재무부 자료에서 10년 만기 국채 수익률은 금리 결정 전날인 9월 15일 5.00%, 결정일 5.01%, 다음 날 4.94%, 9월 18일 5.01%였습니다. 인상 직후에도 한 방향으로 고정되지 않았다는 뜻입니다. 셋째는 주식의 할인율과 이익 전망입니다. 나스닥 종합지수는 9월 17일 26,418.30으로 마쳤습니다. 금리가 높아지면 미래 현금흐름의 현재가치는 낮아질 수 있지만, 성장 전망 상향은 기업 이익 기대를 지지할 수 있습니다. **금리 상승의 부담과 경기 회복력의 이익 효과를 분리해 보는 것**이 밸류에이션을 읽는 출발점입니다.
 
 ## 마침말
 
-이번 주는 국내 정규장이 사흘뿐이고 일본과 한국의 휴장일도 서로 어긋납니다. 22~23일에는 소비심리와 플래시 PMI로 경기 방향을 먼저 보고, 24~25일에는 미국 주택과 내구재 주문으로 금리의 실물경제 전달 경로를 확인하면 됩니다. 발표 전 시장 예상치는 참고값일 뿐 실제치가 아니며, 속보치는 이후 수정될 수 있습니다. 긴 연휴를 앞두면 일정을 많이 아는 것보다 **언제 확인할 수 있고 국내 가격에는 언제 반영되는지**를 구분하는 편이 더 유용합니다. 달력에 시각까지 적어 두면 뉴스 제목에 쫓기지 않고 차분하게 순서를 지킬 수 있습니다.
+9월 FOMC는 현재 금리를 0.25%포인트 올린 확정 결정, 높은 물가에 더 빠르게 대응하겠다는 성명서, 더 강한 성장과 더 높은 금리 경로를 담은 조건부 전망으로 나눠 읽어야 합니다. 국내 시장에서는 원·달러 환율, 미국 10년물 금리, 성장주 밸류에이션이 같은 방향으로 움직인다고 가정하지 않는 편이 안전합니다. 숫자가 많을수록 결론을 서두르기 쉽지만, 이번처럼 채권과 주식이 며칠 사이 엇갈린 때는 각 가격이 무엇을 반영했는지 차분히 나누어 보는 습관이 더 유용해 보입니다.
 
-이 글은 정보 제공을 목적으로 하며 투자 조언이 아닙니다. 투자 판단과 책임은 본인에게 있고, 투자 원금 손실이 발생할 수 있습니다. 발표 일정은 변경될 수 있으므로 발표 전 각 기관의 공식 일정을 다시 확인하시기 바랍니다.
-
-태그: 증시동향,경제일정,주간전망,추석휴장,한국증시,일본증시,소비자동향조사,소비자신뢰지수,플래시PMI,미국주택,신규주택판매,내구재주문,연방준비제도,기준금리,미국국채금리,원달러환율,유로화,시장변동성
+이 글은 정보 제공을 위한 것이며 투자 조언이 아닙니다. 투자 판단과 책임은 본인에게 있고, 원금 손실이 발생할 수 있습니다.
 
 ## 3. 본문에 등장하는 모든 수치·비율·순서·구조
 | figure_id | 항목 | 값 | 기준일 | 출처 URL | 확정 여부 |
 | --- | --- | --- | --- | --- | --- |
-| F1 | 한국 추석 연휴 전 마지막 매매일 | 2026-09-23 date (기준: 추석 연휴 2026-09-24~2026-09-27) | 2026-09-20 | https://kind.krx.co.kr/external/dst/notice/11637/%5B%ED%95%9C%EA%B5%AD%EA%B1%B0%EB%9E%98%EC%86%8C%5D%202026%EB%85%84%20%EC%98%AC%EB%B9%BC%EB%AF%B8%EA%B3%B5%EC%8B%9C%20%EC%95%88%EB%82%B4.pdf | verified_official |
-| F2 | 한국은행 9월 소비자동향조사 발표 | 2026-09-23 06:00 KST (기준: ECOS 수록 08:00 KST) | 2026-09-20 | https://www.bok.or.kr/portal/stats/statsPublictSchdul/listCldr.do?date=2025-09&menuNo=200775 | verified_official_schedule |
-| F3 | 미국 7월 신규주택판매 | 607,000 SAAR units (기준: 2026년 6월 수정치 678,000채 대비 -10.5%) | 2026-07 | https://www.census.gov/construction/nrs/current/ | verified_official_release |
-| F4 | 미국 7월 신규주택 판매 재고개월수 | 9.6 months (기준: 2026년 6월 8.5개월) | 2026-07 | https://www.census.gov/construction/nrs/current/ | verified_official_release |
-| F5 | 미국 7월 내구재 신규주문 | 339.3 USD billion (기준: 전월 대비 +1.1%) | 2026-07 | https://www.census.gov/manufacturing/m3/adv/current/index.html | verified_official_release |
-| F6 | 미국 7월 운송장비 제외 내구재 신규주문 증감률 | 0.4 % MoM (기준: 전체 내구재 신규주문 +1.1% MoM) | 2026-07 | https://www.census.gov/manufacturing/m3/adv/current/index.html | verified_official_release |
-| F7 | 연방기금금리 목표범위 하단 | 3.75 % (기준: 25bp 인상 후) | 2026-09-16 | https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm | verified_official_release |
-| F8 | 연방기금금리 목표범위 상단 | 4.0 % (기준: 25bp 인상 후) | 2026-09-16 | https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm | verified_official_release |
-| F9 | FOMC 참가자 2026년 말 정책금리 전망 중간값 | 4.1 % (기준: 2026년 6월 전망 3.8%) | 2026-09-16 | https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm | verified_official_projection_not_commitment |
+| fig-policy-range-lower | Federal funds target range lower bound | 3.75 % (기준: 3.50% before decision) | 2026-09-16 decision; effective 2026-09-17 | https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm | verified |
+| fig-policy-range-upper | Federal funds target range upper bound | 4.0 % (기준: 3.75% before decision) | 2026-09-16 decision; effective 2026-09-17 | https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm | verified |
+| fig-sep-ffr-2026 | 2026 year-end federal funds rate median | 4.1 % (기준: 3.8% in June 2026 SEP) | September 2026 SEP | https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm | verified |
+| fig-sep-gdp-2026 | 2026 real GDP growth median | 2.3 % y/y Q4-to-Q4 (기준: 2.2% in June 2026 SEP) | September 2026 SEP | https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm | verified |
+| fig-sep-unemployment-2026 | 2026 Q4 unemployment rate median | 4.1 % (기준: 4.3% in June 2026 SEP) | September 2026 SEP | https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm | verified |
+| fig-sep-pce-2026 | 2026 PCE inflation median | 3.7 % y/y Q4-to-Q4 (기준: 3.6% in June 2026 SEP) | September 2026 SEP | https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm | verified |
+| fig-sep-core-pce-2026 | 2026 core PCE inflation median | 3.4 % y/y Q4-to-Q4 (기준: 3.3% in June 2026 SEP) | September 2026 SEP | https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm | verified |
+| fig-ust10y-20260915 | U.S. 10-year Treasury CMT yield | 5.0 % (기준: day before FOMC decision) | 2026-09-15 U.S. market close | https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve | verified |
+| fig-ust10y-20260916 | U.S. 10-year Treasury CMT yield | 5.01 % (기준: 5.00% on 2026-09-15) | 2026-09-16 U.S. market close | https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve | verified |
+| fig-ust10y-20260917 | U.S. 10-year Treasury CMT yield | 4.94 % (기준: 5.01% on 2026-09-16) | 2026-09-17 U.S. market close | https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve | verified |
+| fig-ust10y-20260918 | U.S. 10-year Treasury CMT yield | 5.01 % (기준: 4.94% on 2026-09-17) | 2026-09-18 U.S. market close | https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve | verified |
+| fig-usdkrw-20260917 | USD/KRW Seoul market close | 1,382.2 KRW per USD (기준: +13.6 KRW from prior session close) | 2026-09-17 15:30 KST | https://www.koreatimes.co.kr/economy/20260917/seoul-stocks-shrug-off-fed-hike-but-won-weakens-sharply | verified_by_direct_full_text_of_korea_times_and_newsis; official public close page not located |
+| fig-nasdaq-20260917 | Nasdaq Composite close | 26,418.3 index points (기준: prior-close change omitted because a same-source prior close was not secured) | 2026-09-17 U.S. market close | https://indexes.nasdaq.com/Index/History/COMP | verified_close_only |
 
 ## 4. 주인공 후보
-- 한국·일본 휴장과 9월 22~25일 핵심 발표를 한국시간 순서로 배열하고, 미국 지표는 직전 실측값과 함께 보여준다. — 대응 절: summary, figure_id: F1, F2, F3, F4, F5, F6, F7, F8, F9, 목적: 긴 연휴 전후의 가격 반영 시점과 발표 확인 순서를 한눈에 전달
+- 9월 FOMC의 확정 결정과 조건부 전망을 분리하고, 6월 대비 성장·실업·물가·정책금리 중간값 변화를 한눈에 비교 — 대응 절: 새 경제전망은 더 높은 금리를 가리킵니다, figure_id: fig-policy-range-lower, fig-policy-range-upper, fig-sep-ffr-2026, fig-sep-gdp-2026, fig-sep-unemployment-2026, fig-sep-pce-2026, fig-sep-core-pce-2026, 목적: 금리 결정(확정값)과 SEP(조건부 전망)의 성격 차이를 시각적으로 분리하고 6월 대비 방향을 설명
+- FOMC 전후 미국 10년물 금리가 5% 안팎에서 등락해 시장 반응이 단선적이지 않았음을 표시 — 대응 절: 국내 투자자는 세 가격을 함께 봐야 합니다, figure_id: fig-ust10y-20260915, fig-ust10y-20260916, fig-ust10y-20260917, fig-ust10y-20260918, 목적: 정책금리 인상과 장기금리의 일별 반응을 동일시하지 않도록 실제 수치 흐름을 제공
 
 ## 5. 이미지 안에 들어갈 문구
-- 자료 출처와 기준 시점: 「자료: 한국거래소 유가증권시장본부·코스닥시장본부·한국은행·U.S. Census Bureau and U.S. Department of Housing and Urban Development | 기준 2026-09-18」
+- 자료 출처와 기준 시점: 「자료: Board of Governors of the Federal Reserve System·U.S. Department of the Treasury·The Korea Times | 기준 2026-09-18」
 - 면책 문구: 「정보 제공 목적이며 매수·매도 권유가 아니고, 투자 판단과 책임은 본인에게 있으며 원금 손실이 발생할 수 있습니다.」
 
 ## 6. 주의 사항
