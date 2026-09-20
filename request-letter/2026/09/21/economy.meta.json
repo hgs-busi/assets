@@ -1,0 +1,20 @@
+{
+  "image_id": "economy-fomc-summary",
+  "kind": "economy",
+  "post_key": "economy-fomc-september-2026-outlook",
+  "run_id": "20260920-daily-162805",
+  "article_revision": 2,
+  "article_sha256": "70381ff63e7d3fb43e0fc952243ba1d7856a80983ffa385096567c0ffebb9574",
+  "request_sha256": "8bb2e865fa1b0813086aec839fc02899d04bd7a332c77d56287b857d222605e4",
+  "png": "stock_blog/2026/09/21/economy.png",
+  "source_url": "https://raw.githubusercontent.com/hgs-busi/assets/main/stock_blog/2026/09/21/economy.png",
+  "sha256": "a227792eb079703db36d92cc0f904a5d21a465fa3f3bfb5413edb692a4f41a33",
+  "width": 1500,
+  "height": 1124,
+  "verified": true,
+  "verify_rounds": 2,
+  "verified_at": "2026-09-20T09:21:25Z",
+  "producer": "claude/infographic-agent",
+  "omitted": false,
+  "omit_reason": null
+}
