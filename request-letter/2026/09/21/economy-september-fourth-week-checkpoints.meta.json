@@ -1,0 +1,20 @@
+{
+  "image_id": "economy-week4-summary",
+  "kind": "economy",
+  "post_key": "economy-september-fourth-week-checkpoints",
+  "run_id": "20260920-daily-195707",
+  "article_revision": 1,
+  "article_sha256": "5cc08f8344dcf240789c498f191e07da06c987c21e41c2b4c03fe216144e2e19",
+  "request_sha256": "f9111a14d9eb3be38ffa924ad5eae12693e938d5b9b4f3562a7e3bb7a557b954",
+  "png": "stock_blog/2026/09/21/economy-september-fourth-week-checkpoints.png",
+  "source_url": "https://raw.githubusercontent.com/hgs-busi/assets/main/stock_blog/2026/09/21/economy-september-fourth-week-checkpoints.png",
+  "sha256": "9bbacb9bbc8123d50dad4c3380d3b22ffb1755dfdb74633b9961af41cee4e0c4",
+  "width": 1500,
+  "height": 1124,
+  "verified": true,
+  "verify_rounds": 2,
+  "verified_at": "2026-09-20T11:56:02Z",
+  "producer": "claude/infographic-agent",
+  "omitted": false,
+  "omit_reason": null
+}
