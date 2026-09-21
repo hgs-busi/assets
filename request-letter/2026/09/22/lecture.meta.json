@@ -1,0 +1,20 @@
+{
+  "image_id": "lecture-summary",
+  "kind": "lecture",
+  "post_key": "lecture-balance-sheet-reading",
+  "run_id": "20260921-scheduled-165138",
+  "article_revision": 3,
+  "article_sha256": "7c79b2ed484e61850bb349c928f2fa2db1cb02b886b08ef1122c886591337d5d",
+  "request_sha256": "f235168e1a38a91d083c25ebbf832a8953262fe554700f9b3ac97806cac5707f",
+  "png": "stock_blog/2026/09/22/lecture.png",
+  "source_url": "https://raw.githubusercontent.com/hgs-busi/assets/main/stock_blog/2026/09/22/lecture.png",
+  "sha256": "d37e5ddfa63dfd54d7f14237dadeda314a2b591a78de0d3826f2da2ae64faa30",
+  "width": 1500,
+  "height": 1124,
+  "verified": true,
+  "verify_rounds": 2,
+  "verified_at": "2026-09-21T08:34:26Z",
+  "producer": "claude/infographic-agent",
+  "omitted": false,
+  "omit_reason": null
+}
