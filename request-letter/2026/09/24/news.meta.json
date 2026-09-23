@@ -1,0 +1,20 @@
+{
+  "image_id": "news-cms-market-summary",
+  "kind": "news",
+  "post_key": "news-tomato-system-cms-approval",
+  "run_id": "20260923-scheduled-173713",
+  "article_revision": 2,
+  "article_sha256": "126e68784496257c86d4086b40d5264db0f46ac769dcebe54bf84e3583a38ae0",
+  "request_sha256": "d5a09c10fdc590e94121aa5cd510f8bea0db7c2780ba4830aa5c92958906c811",
+  "png": "stock_blog/2026/09/24/news.png",
+  "source_url": "https://raw.githubusercontent.com/hgs-busi/assets/main/stock_blog/2026/09/24/news.png",
+  "sha256": "5521b523b660c39517676b6d970f1dc13f93011880b91afa38480daf741969d9",
+  "width": 1500,
+  "height": 1124,
+  "verified": true,
+  "verify_rounds": 2,
+  "verified_at": "2026-09-23T09:41:50Z",
+  "producer": "claude/infographic-agent",
+  "omitted": false,
+  "omit_reason": null
+}
