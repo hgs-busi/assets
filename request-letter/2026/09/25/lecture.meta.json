@@ -1,0 +1,20 @@
+{
+  "image_id": "lecture-summary",
+  "kind": "lecture",
+  "post_key": "lecture-audit-report-opinion",
+  "run_id": "20260924-scheduled-121648",
+  "article_revision": 2,
+  "article_sha256": "4955dad49b2f0ca00125263c35f31477f7bce79b4e9bc0dade0c73a0f4cff855",
+  "request_sha256": "17c28add6941880aeb14c20af39252cca7f2f1b5aa12c016862e8ba84abaadd1",
+  "png": "stock_blog/2026/09/25/lecture.png",
+  "source_url": "https://raw.githubusercontent.com/hgs-busi/assets/main/stock_blog/2026/09/25/lecture.png",
+  "sha256": "7b65678659f39ac000c679da6ab550a733b63d74a68d44f2f56d2b4b1c4b0a04",
+  "width": 1500,
+  "height": 1124,
+  "verified": true,
+  "verify_rounds": 3,
+  "verified_at": "2026-09-24T04:01:23Z",
+  "producer": "claude/infographic-agent",
+  "omitted": false,
+  "omit_reason": null
+}
