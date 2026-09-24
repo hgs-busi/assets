@@ -1,0 +1,20 @@
+{
+  "image_id": "lecture-summary",
+  "kind": "lecture",
+  "post_key": "lecture-statement-of-changes-in-equity",
+  "run_id": "20260924-scheduled-150907",
+  "article_revision": 1,
+  "article_sha256": "e79e457dc31b10e15ae75f30c3c6d10bb33ceade1598a0b87bb318bb138b9623",
+  "request_sha256": "1ac7bad6196ca7b15aee828c65ad7180b76618f54edf21b8ba0de05b4ff3c8ea",
+  "png": "stock_blog/2026/09/26/lecture.png",
+  "source_url": "https://raw.githubusercontent.com/hgs-busi/assets/main/stock_blog/2026/09/26/lecture.png",
+  "sha256": "27e901d08de8d20990f15429ad8279d836a40037e0198d3dfa884ea21c12efcf",
+  "width": 1500,
+  "height": 1124,
+  "verified": true,
+  "verify_rounds": 1,
+  "verified_at": "2026-09-24T06:35:11Z",
+  "producer": "claude/infographic-agent",
+  "omitted": false,
+  "omit_reason": null
+}
