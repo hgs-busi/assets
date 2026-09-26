@@ -1,0 +1,20 @@
+{
+  "image_id": "economy-week4-review-summary",
+  "kind": "economy",
+  "post_key": "economy-week4-review-2026",
+  "run_id": "20260926-scheduled-102151",
+  "article_revision": 1,
+  "article_sha256": "3e49df1a08602fbda84d264ba1f2e9ff55fb0c6fa5da05f93e874aa1df6d2f7d",
+  "request_sha256": "f4041ecec131989a2b03a078200e16e009904c0cc50cc31201da9cbc9c2c1b30",
+  "png": "stock_blog/2026/09/27/economy.png",
+  "source_url": "https://raw.githubusercontent.com/hgs-busi/assets/main/stock_blog/2026/09/27/economy.png",
+  "sha256": "fd372f904cfc8b0888cb2ab6bf759132e91d3282a29e473054e3e363b8c685d2",
+  "width": 1500,
+  "height": 1124,
+  "verified": true,
+  "verify_rounds": 1,
+  "verified_at": "2026-09-26T02:05:18Z",
+  "producer": "claude/infographic-agent",
+  "omitted": false,
+  "omit_reason": null
+}
