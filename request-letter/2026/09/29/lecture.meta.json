@@ -1,0 +1,20 @@
+{
+  "image_id": "lecture-market-cap-comparison",
+  "kind": "lecture",
+  "post_key": "lecture-market-cap-vs-share-price",
+  "run_id": "20260928-scheduled-164743",
+  "article_revision": 2,
+  "article_sha256": "d3ca60cdb9fc73677e34aad0d967c3d2769e0d75aa3436b0b93ce178d31de551",
+  "request_sha256": "461c01ec37db9a5e85821f7b0d74a7b010d00b76fa47cc6e8e69b886c91e98d2",
+  "png": "stock_blog/2026/09/29/lecture.png",
+  "source_url": "https://raw.githubusercontent.com/hgs-busi/assets/main/stock_blog/2026/09/29/lecture.png",
+  "sha256": "e5d25445c03ec2d4c5e1a745d0001f7136e65d2792f61ed9acdbe79126d72f91",
+  "width": 1500,
+  "height": 1124,
+  "verified": true,
+  "verify_rounds": 1,
+  "verified_at": "2026-09-28T08:35:12Z",
+  "producer": "claude/infographic-agent",
+  "omitted": false,
+  "omit_reason": null
+}
